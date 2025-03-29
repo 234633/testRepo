@@ -1,8 +1,9 @@
 package org.example;
 
 public class AtmOptions {
-    public static final String DEPOSIT = "Deposit";
-    public static final String WITHDRAW = "Withdraw";
-    public static final String BALANCE = "Balance";
-    public static final String TRANSFER = "Transfer";
+    public static final String BALANCE = "1";
+    public static final String WITHDRAW = "2";
+    public static final String DEPOSIT = "3";
+    public static final String TRANSFER = "4";
+    public static final String EXIT = "5";
 }
