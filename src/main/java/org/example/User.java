@@ -39,8 +39,4 @@ public class User {
         this.balance = balance;
     }
 
-    public String printNameAndPassword(){
-        return login + " " + password;
-    }
-
 }
